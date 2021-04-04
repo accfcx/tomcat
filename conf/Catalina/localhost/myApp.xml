@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--测试HostConfig 自动扫描部署 Context-->
+
+<Context docBase="webapps/myApp" path="/myApp" reloadable="false">
+    <WatchedResource>WEB-INF/web.xml</WatchedResource>
+
+</Context>
